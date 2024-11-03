@@ -199,7 +199,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Mario_3
+      name: MarioRun3
       rect:
         serializedVersion: 2
         x: 54
@@ -220,7 +220,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Mario_4
+      name: MarioRun4
       rect:
         serializedVersion: 2
         x: 71
@@ -241,7 +241,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Mario_5
+      name: MarioRun5
       rect:
         serializedVersion: 2
         x: 88
@@ -1428,6 +1428,9 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Mario Idle: -1410745715
+      MarioRun3: 1162761512
+      MarioRun4: -1897739685
+      MarioRun5: 93025000
       Sprite_Mario_10: -1920137552
       Sprite_Mario_11: -2028245116
       Sprite_Mario_12: 1352992804
@@ -1448,7 +1451,6 @@ TextureImporter:
       Sprite_Mario_27: -216974983
       Sprite_Mario_28: 985519109
       Sprite_Mario_29: -1186619637
-      Sprite_Mario_3: 1162761512
       Sprite_Mario_30: -1407011197
       Sprite_Mario_31: -299024280
       Sprite_Mario_32: -703060691
@@ -1459,7 +1461,6 @@ TextureImporter:
       Sprite_Mario_37: -1761692259
       Sprite_Mario_38: 199762021
       Sprite_Mario_39: 2094050196
-      Sprite_Mario_4: -1897739685
       Sprite_Mario_40: 920945130
       Sprite_Mario_41: -1240009580
       Sprite_Mario_42: 1579063249
@@ -1467,7 +1468,6 @@ TextureImporter:
       Sprite_Mario_44: -383127697
       Sprite_Mario_45: -1707018531
       Sprite_Mario_46: -545378316
-      Sprite_Mario_5: 93025000
       Sprite_Mario_50: -1143127963
       Sprite_Mario_51: 1214397395
       Sprite_Mario_52: -1020398602
